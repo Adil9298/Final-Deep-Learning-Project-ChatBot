@@ -1,5 +1,7 @@
 🤖 AI Chatbot Project
+
 Traditional NLP vs Retrieval-Augmented Generation (RAG)
+
 📌 Project Overview
 
 This project implements and compares two different chatbot architectures:
